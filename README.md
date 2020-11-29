@@ -1,2 +1,2 @@
-# Project_C31_Plinko_I
-Plinko Game - I
+# Plinko Game - I
+Implementation of Arrays
